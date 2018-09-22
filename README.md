@@ -14,6 +14,6 @@ https://support.shotgunsoftware.com/hc/en-us/articles/219028018
 -----------------------------------------------------------
 GIT Documentations on Master Branch and Custom Branches
 
-•	DPA-toolkit Master branch is the default configuration branch and should only be used as a starting point for custom branches.
+•	tk-dpa-default-config is the default configuration and should only be used as a starting point for custom configs.
 
 
