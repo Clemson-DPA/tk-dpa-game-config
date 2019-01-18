@@ -187,6 +187,15 @@ apps.tk-mari-projectmanager.location:
   type: app_store
   version: v1.2.0
 
+# ---- Project Apps
+
+# exporter app
+apps.tk-file-exporter.location:
+  type: git_branch
+  path: git@github.com:Clemson-DPA/tk-dpa-apps
+  branch: tk-file-exporter
+  version: v1.0.0
+
 ################################################################################
 # reference all of the common frameworks
 frameworks: '@frameworks'
