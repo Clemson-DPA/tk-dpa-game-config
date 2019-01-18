@@ -1,0 +1,5 @@
+# Be careful to put double backslashes if using backslashes. Otherwise the yaml file reader will try to
+# interpret "\s", "\b" and "\p" as single characters.
+- win32:
+  linux2:
+  darwin:
